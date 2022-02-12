@@ -5,7 +5,4 @@ This website is built using CSS/Bootstrap , the theme is to create a website for
 
 
 
-### Link to the project hosted in the azure cloud
-
-[History of Internet](http://internetinventionhistory.eastus.azurecontainer.io/)
 
